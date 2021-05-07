@@ -13,6 +13,7 @@ public class Main {
 		customer.setDateOfBirth("20.12.1999");
 		customer.setNationalityId("112342817151");
 		customerManager.Save(customer);
+		
 
 	}
 
